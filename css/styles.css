@@ -1,0 +1,697 @@
+body {
+  color: #4d4c50; }
+
+#myWallpaper {
+  width: 100%;
+  height: 25rem; }
+
+#navTextClr {
+  color: #fff;
+  font-size: .9rem;
+  padding-right: 1rem;
+  padding-top: 3rem;
+  text-transform: capitalize;
+  font-family: 'Varela Round'; }
+
+.navbar {
+  widows: 100%;
+  background-color: #000099;
+  height: 5rem; }
+  @media (max-width: 34em) {
+    .navbar {
+      background: #0052CC; } }
+  .navbar .navbar-toggler {
+    cursor: pointer;
+    outline: 0; }
+  .navbar .nav-link {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: .5rem;
+    background: #000099; }
+  .navbar .nav-item {
+    padding: 0 0; }
+    @media (max-width: 34em) {
+      .navbar .nav-item {
+        padding: 0;
+        width: 100%; } }
+    @media (max-width: 34em) {
+      .navbar .nav-item .nav-link {
+        font-weight: normal;
+        color: #fff; } }
+
+.mainFormSpacing {
+  margin-left: -1rem;
+  margin-right: -.9rem; }
+
+#footer {
+  background: #0052CC;
+  height: 25rem;
+  padding: 4rem;
+  color: #fff; }
+
+#footerUL {
+  padding-left: 1rem; }
+
+#footerLink {
+  color: #fff; }
+
+#footerHr {
+  border-width: .5rem; }
+
+#footerIcon {
+  word-spacing: 2rem;
+  text-align: right; }
+
+#footerFbIcon:hover {
+  color: #0a0ed1; }
+
+#footerTIcon:hover {
+  color: #1229f5; }
+
+#footerLIcon:hover {
+  color: #063ae4; }
+
+#footerYIcon:hover {
+  color: red; }
+
+#homeMainForm {
+  margin-top: -4rem; }
+
+/*====Text on wallpaper========*/
+#textStyle {
+  margin-left: 10%; }
+
+#homeForm {
+  margin-top: 1.5rem; }
+
+#box-shape {
+  padding: 40px 30px 40px 30px;
+  border-radius: 2rem; }
+
+#indexBooking {
+  width: 20rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: .15rem; }
+
+/*====Explore section===========*/
+p {
+  margin-top: 10%;
+  text-align: justify; }
+
+#exploreMainTopic {
+  margin: 3rem 0 0rem 0;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: #444444;
+  font-family: 'Ubuntu', sans-serif;
+  word-spacing: .2rem;
+  letter-spacing: .2rem;
+  background: rgba(238, 239, 241, 0.644);
+  padding: 2rem 26.7rem 2rem; }
+
+#exploreTopic {
+  margin-top: .25rem;
+  margin-left: 3rem;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5rem; }
+
+#myKumanaImg {
+  width: 22rem;
+  height: 12rem;
+  -webkit-box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.75); }
+
+#welcomeSection {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem; }
+
+#exploreSection {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  background: #e8ebf5;
+  padding-top: 5%;
+  padding-bottom: 5%; }
+
+/*=====Deals section==============*/
+#dealsHeading {
+  color: #0000f8;
+  margin: 2rem 0 5rem 0;
+  text-align: center;
+  font-weight: bold;
+  font-size: 3.5rem;
+  text-transform: uppercase;
+  font-family: 'Ubuntu', 'ans-serif';
+  letter-spacing: .5rem; }
+
+.containerPack {
+  position: relative;
+  margin: 0 auto;
+  margin-left: 100%; }
+
+#containerPack .contentPack {
+  /* position: absolute; */
+  /* background: black; */
+  /* Fallback color */
+  /* background: rgba(216, 214, 214, 0.8); */
+  /* white background with 0.6 opacity */
+  color: black;
+  bottom: 20%;
+  top: 23%;
+  left: 20%;
+  right: 20%;
+  padding: 8% 0 6% 0;
+  /* box-shadow: 2px 2px 8px #555;  */
+}
+
+#myWallFormalign {
+  margin-bottom: 50rem; }
+
+#myButtonHome {
+  font-size: 2rem;
+  font-weight: 700; }
+
+#myWallButton {
+  background-color: transparent;
+  font-size: 60%;
+  font-weight: bold;
+  margin-top: -100rem; }
+
+#myLink {
+  text-decoration: none;
+  color: #1619d8; }
+
+#myDealImg {
+  width: 100%;
+  border-radius: 5%; }
+
+/*=======testimonial section==============*/
+#testiImg {
+  height: 10%; }
+
+#sectionGap {
+  padding-top: 5rem;
+  padding-bottom: 5rem; }
+
+/*=============Contact map===================*/
+#myMap {
+  width: 100%;
+  border-radius: 5%; }
+
+#mapSection {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%; }
+
+/*========Contact form area==============*/
+#conatctData {
+  text-align: center !important;
+  margin-bottom: 2rem; }
+
+#conatctData2 {
+  text-align: center !important;
+  margin-bottom: 2rem; }
+
+#formHeading {
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .5rem;
+  word-spacing: 1rem;
+  text-align: center; }
+
+#messegeArea {
+  margin-bottom: 1.5rem;
+  margin-top: .75rem; }
+
+#contactFormArea {
+  background: #8fbbf8;
+  padding: 2rem 0 2rem;
+  margin: 0rem 0 3rem;
+  -webkit-box-shadow: 1px 2px 8px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 2px 8px 1px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 2px 8px 1px rgba(0, 0, 0, 0.75); }
+
+#formMesageStyle {
+  font-size: 1rem;
+  margin-top: 1rem;
+  height: 8.5rem; }
+
+#formStyle {
+  border-radius: 5rem;
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 2rem; }
+
+#formBtn {
+  font-size: 1rem;
+  font-weight: 500;
+  border-radius: 1rem;
+  margin-top: .75rem;
+  width: 15rem;
+  box-align: center; }
+
+@media (max-width: 600px) {
+  #accTabContent {
+    padding: 0 0.2rem 0 0.2rem; } }
+
+/*=======Acc area================*/
+#accSpecialFea {
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: #00db00; }
+
+#accSpecialFea2 {
+  text-decoration: none;
+  font-size: .8rem;
+  color: #00db00;
+  margin-left: 4%; }
+
+#hotelRoomDes {
+  color: #333; }
+
+#hotelRoomHading {
+  color: #333; }
+
+#accLaya {
+  background: url("../assets/imgs/accomodations/layabay.jpg");
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  padding: 5rem 0 5rem 0;
+  box-shadow: 10px 10px 5px grey;
+  font-weight: 600;
+  letter-spacing: .5rem; }
+
+#accTabHeading {
+  font-family: 'Ubuntu', sans-serif;
+  margin: 2rem 0 2rem;
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: #f3f3f3;
+  font-family: 'Quicksand';
+  background: #2946ee;
+  -webkit-box-shadow: 1px 1px 7px -1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 1px 7px -1px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 1px 7px -1px rgba(0, 0, 0, 0.75);
+  border-radius: 1rem;
+  margin-left: auto;
+  width: -webkit-fill-available;
+  padding: 1%;
+  text-align: center; }
+
+#accTabContent {
+  margin: 2rem 0 2rem;
+  font-weight: 400;
+  font-size: 1.1rem;
+  padding: 0 3rem 0 3rem; }
+
+#accChi {
+  background: url("../assets/imgs/accomodations/chillaxbey.jpg");
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  padding: 5rem 0 5rem 0;
+  box-shadow: 10px 10px 5px grey;
+  font-weight: 600;
+  letter-spacing: .5rem; }
+
+#accOas {
+  background: url("../assets/imgs/accomodations/oasisbay.jpg");
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  padding: 5rem 0 5rem 0;
+  box-shadow: 10px 10px 5px grey;
+  font-weight: 600;
+  letter-spacing: .5rem; }
+
+#accAqua {
+  background: url("../assets/imgs/accomodations/aquablue.jpg");
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  padding: 5rem 0 5rem 0;
+  box-shadow: 10px 10px 5px grey;
+  font-weight: 600;
+  letter-spacing: .5rem; }
+
+#accAPBay {
+  background: url("../assets/imgs/accomodations/arugambayPodBay.jpg");
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  padding: 5rem 0 5rem 0;
+  box-shadow: 10px 10px 5px grey;
+  font-weight: 600;
+  letter-spacing: .5rem; }
+
+/*=======tab decoration section============*/
+#accTab {
+  background: #dcd9fc; }
+
+#layaTabBtnClr {
+  background: #595bfd; }
+
+#layaTabBtnFont {
+  color: #000;
+  font-weight: 500; }
+
+#layaTabBtnFont:hover {
+  color: #fff !important; }
+
+#accFea {
+  color: #00d647;
+  font-size: .8rem; }
+
+/*=========Accomonation area==========================*/
+#accSerFormInput {
+  width: 15rem;
+  margin-bottom: 1rem;
+  border-radius: .5rem; }
+
+#accSerHeading {
+  font-size: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+  font-family: 'Varela Round';
+  font-weight: 600; }
+
+#datepicker3 {
+  width: 8rem;
+  align-content: center;
+  margin-left: -1rem;
+  margin-bottom: 1rem; }
+
+#datepicker4 {
+  width: 8rem; }
+
+#accSerForm {
+  margin-top: 3rem; }
+
+#accAllRes {
+  margin-top: 3rem; }
+
+#accDefImg {
+  width: 15rem;
+  border-radius: 1rem;
+  margin: 0 -1rem; }
+
+#accSerBox {
+  box-sizing: border-box;
+  width: 53rem;
+  border: 1px solid #c75959 !important;
+  float: left;
+  margin: 1rem 0 1rem;
+  padding: 1rem 1rem 1rem 1rem;
+  -webkit-box-shadow: 4px 3px 6px 1px #666;
+  -moz-box-shadow: 4px 3px 6px 1px #666;
+  box-shadow: 4px 3px 6px 1px #666;
+  background: #dfdddd; }
+
+#textCard {
+  color: #444;
+  font-size: .8rem; }
+
+#accDefBtn {
+  background: #fff;
+  align-content: center;
+  border-radius: 1rem;
+  color: #000;
+  font-weight: 600; }
+
+#accDefBtn:hover {
+  background: #0052CC;
+  border-radius: .5rem; }
+
+#hotelBtn {
+  color: #fff;
+  border: 3px solid #fff;
+  font-weight: 500; }
+
+#hotelsLayaMainTopic {
+  color: #fff;
+  font-weight: 700;
+  font-size: 3rem;
+  text-transform: uppercase;
+  margin: 4rem 0 4rem;
+  background: url("../assets/imgs/accomodations/layabay.jpg");
+  padding: 8rem 35rem 8rem;
+  text-align: center;
+  font-family: 'Varela Round';
+  text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.68); }
+
+#hotelsWEMainTopic {
+  color: #fff;
+  font-weight: 700;
+  font-size: 3rem;
+  text-transform: uppercase;
+  margin: 4rem 0 4rem;
+  background: url("../assets/imgs/accomodations/watersedge.jpg");
+  padding: 8rem 35rem 8rem;
+  text-align: center;
+  font-family: 'Varela Round';
+  text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.68); }
+
+#hotelsChilMainTopic {
+  color: #fff;
+  font-weight: 700;
+  font-size: 3rem;
+  text-transform: uppercase;
+  margin: 4rem 0 4rem;
+  background: url("../assets/imgs/accomodations/chillaxbey.jpg");
+  padding: 8rem 35rem 8rem;
+  text-align: center;
+  font-family: 'Varela Round';
+  text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.68); }
+
+#hotelsOasisMainTopic {
+  color: #fff;
+  font-weight: 700;
+  font-size: 3rem;
+  text-transform: uppercase;
+  margin: 4rem 0 4rem;
+  background: url("../assets/imgs/accomodations/oasisbay.jpg");
+  padding: 8rem 35rem 8rem;
+  text-align: center;
+  font-family: 'Varela Round';
+  text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.68); }
+
+#hotelsAquaMainTopic {
+  color: #fff;
+  font-weight: 700;
+  font-size: 3rem;
+  text-transform: uppercase;
+  margin: 8rem 0 8rem;
+  background: url("../assets/imgs/accomodations/aquablue.jpg");
+  padding: 5rem 35rem 5rem;
+  text-align: center;
+  font-family: 'Varela Round';
+  text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.68); }
+
+#hotelsAPBMainTopic {
+  color: #fff;
+  font-weight: 700;
+  font-size: 3rem;
+  text-transform: uppercase;
+  margin: 4rem 0 4rem;
+  background: url("../assets/imgs/accomodations/arugambayPodBay.jpg");
+  padding: 8rem 35rem 8rem;
+  text-align: center;
+  font-family: 'Varela Round';
+  text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.68); }
+
+#hotelsTopic {
+  font-size: 3rem;
+  margin: 3rem 0 -2rem;
+  color: #444444;
+  text-align: center;
+  font-family: 'Varela Round';
+  font-weight: 600;
+  background: #eee;
+  padding: 3%; }
+
+#HotelPopupContentDes {
+  text-align: justify; }
+
+#hotelSliderImg {
+  width: 75%; }
+
+#hotelRoomImg {
+  padding: 1.5rem 0 2rem;
+  border-radius: 1rem;
+  -webkit-box-shadow: 4px 3px 10px -2px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 4px 3px 10px -2px rgba(0, 0, 0, 0.75);
+  box-shadow: 4px 3px 10px -2px rgba(0, 0, 0, 0.75); }
+
+.hotelRoomType {
+  margin-top: 2rem; }
+
+.hotelRoomPrice:hover {
+  text-transform: uppercase; }
+
+.hotelRoomType:hover {
+  text-transform: uppercase; }
+
+#hotelRoomHeading {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Quicksand';
+  background: #2946ee;
+  -webkit-box-shadow: 1px 1px 7px -1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 1px 7px -1px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 1px 7px -1px rgba(0, 0, 0, 0.75);
+  border-radius: 2rem; }
+
+#hotelsCarousal {
+  background: rgba(131, 129, 129, 0.363);
+  width: 5%; }
+
+#allAccomodationsHeadings {
+  color: #111;
+  text-align: center;
+  font-family: 'Varela Round';
+  font-weight: bold; }
+
+#allAccomodations {
+  color: #111;
+  margin: 0 0 1rem 0;
+  font-family: 'Exo'; }
+
+#moreHotels {
+  margin: 5rem 0 2rem; }
+
+#hotelMap {
+  margin: 0 1.5rem;
+  width: 90%;
+  height: 25%;
+  box-shadow: 2px 2px 8px #555; }
+
+#hotelsReviewBox {
+  margin: 2rem 1.5rem;
+  width: 90%;
+  box-shadow: 2px 2px 8px #555;
+  padding: 1rem 1.5rem 1rem; }
+
+#hotelPopupSliderImg {
+  width: 100%; }
+
+#nearbyMargin {
+  margin-bottom: 5rem; }
+
+#nearbyImg {
+  height: 238.42px;
+  width: 358px;
+  -webkit-box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.75); }
+
+#nearbyName {
+  text-align: center;
+  margin: 1rem;
+  font-family: 'Varela Round';
+  font-weight: bold; }
+
+.homeCardBg {
+  background: rgba(189, 209, 238, 0.808); }
+
+#footerBackground {
+  background: #5f9af3;
+  height: 22rem;
+  margin: 8rem 0 0 0; }
+
+#footerHeadings {
+  font-size: 1.2rem;
+  color: #fff; }
+
+#footerHeadersCon {
+  font-size: .9rem;
+  color: #000;
+  margin: .8rem -1rem; }
+
+.modalBody {
+  background: #f2f2f2; }
+
+#hotelPopupHeading {
+  color: #f1f1f1;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Quicksand';
+  background: #2946ee;
+  -webkit-box-shadow: 1px 1px 7px -1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 1px 7px -1px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 1px 7px -1px rgba(0, 0, 0, 0.75);
+  border-radius: 2rem;
+  margin-left: auto;
+  width: -webkit-fill-available;
+  padding: 1%; }
+
+.hotelPopupHeadingBg {
+  background: #595bfd; }
+
+#toursMainTopic {
+  color: #fff;
+  font-weight: 700;
+  font-size: 3rem;
+  text-transform: uppercase;
+  margin: 4rem 0 4rem;
+  background: url("../assets/imgs/tours/background.jpg");
+  padding: 8rem 35rem 8rem;
+  text-align: center;
+  font-family: 'Varela Round';
+  text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.68); }
+
+/*=========Tour Area==============*/
+#tourDes {
+  margin-top: 20%;
+  line-height: 2.5rem;
+  font-size: 1.2rem; }
+
+#tourImg {
+  margin-top: 15%;
+  width: 100%; }
+
+#lagoonToursMainTopic {
+  color: #fff;
+  font-weight: 700;
+  font-size: 3rem;
+  text-transform: uppercase;
+  margin: 4rem 0 0rem;
+  background: url("../assets/imgs/tours/lagoon/1.jpg");
+  padding: 8rem 35rem 8rem;
+  text-align: center;
+  font-family: 'Varela Round';
+  text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.68); }
+
+#tourDes2 {
+  margin-top: 2%;
+  font-size: 1.2rem; }
+
+#tourSubTopic {
+  background: #f1f1f1;
+  color: #444;
+  padding: 2rem 32rem;
+  font-size: 1.5rem;
+  font-family: 'Varela Round';
+  font-weight: bold;
+  margin-top: 5%; }
+
+#tourInclude {
+  margin-top: 2%;
+  margin-bottom: -2%;
+  font-size: 1rem;
+  width: max-content;
+  text-align: center; }
+
+#tourPriTbl {
+  margin-top: 2rem; }
