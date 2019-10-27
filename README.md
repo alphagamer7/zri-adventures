@@ -15,7 +15,6 @@ go to the repo root
 enter following commands
 
 ```
-  cd zri-adventures
   php -S 127.0.0.1:8000
 ```
 
