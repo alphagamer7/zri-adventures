@@ -7,7 +7,7 @@ https://www.apachefriends.org/download.html
 ## Set the php path 
 Watch this video to set the environment variable path
 https://youtu.be/2Y9lu5rhwMQ
-To make sure you have php setup, after setting environment variable, open a cmd prompt and type `php -v`
+To make sure you have php setup, after setting environment variable, open a cmd prompt and type `php -v`. If installed successfully you should the php version
 
 ## Running locally
 Clone/Download/Fork repo
