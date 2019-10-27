@@ -12,8 +12,13 @@ To make sure you have php setup, after setting environment variable, open a cmd 
 ## Running locally
 Clone/Download/Fork repo
 go to the repo root 
+enter following commands
 
 ```
   cd zri-adventures
   php -S 127.0.0.1:8000
 ```
+
+Requirement 
+Add the video and description as this
+https://wistia.com/
