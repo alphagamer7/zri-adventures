@@ -3738,13 +3738,12 @@ h6 {
 
 .video-container {
     position: relative;
+    padding: 25px;
+    margin-top: 25px;
 }
 
-video {
-    height: auto;
-    vertical-align: middle;
-    width: 100%;
-    margin-top: 4.7rem;
+.tripadvisor{
+    margin-left: 300px;
 }
 
 .overlay-desc {

@@ -71,11 +71,40 @@
     <!--================Header Area =================-->
 
     <!--================Banner Area =================-->
+<!-- Page Content -->
+<div class="container">
 
+  <!-- Portfolio Item Heading -->
+  <h1 class="my-4">Page Heading
+    <small>Secondary Text</small>
+  </h1>
+
+  <!-- Portfolio Item Row -->
+  <div class="row">
+
+    <div class="col-md-8">
     <div class="video-container">
-    <iframe  width="100%" height="700" src="https://www.youtube.com/embed/rKTJycWhg0k" frameborder="0" allowfullscreen></iframe>
-                
-        </video> -->
+  <iframe width="40%" height="480" src="https://www.youtube.com/embed/rKTJycWhg0k" frameborder="0" allowfullscreen></iframe>
+</div>
+    </div>
+
+    <div class="col-md-4">
+    <div class="section_title text-center">
+            <h2 class="title_color" style="color:#003366;; margin-top: 120px;">Your Adventure begins here</h2>
+            <p>An Adventure is always a new experience, be it exciting or just calm stroll on a rocky road. An adventure is an experience that always channels a different part of you, every single time. ZRI Adventures looks at building these experiences for you - An Adventure of a lifetime.</p>
+        </div>
+    </div>
+
+  </div>
+
+</div>
+<!-- /.container -->
+<div class="video-container">
+  <iframe width="40%" height="480" src="https://www.youtube.com/embed/rKTJycWhg0k" frameborder="0" allowfullscreen></iframe>
+</div>
+<div id="TA_rated469" class="TA_rated tripadvisor"><ul id="FUQsXHeO6R" class="TA_links bhiWms8sHQJE"><li id="k2rq1XsU" class="zdaMfEOZ"><a target="_blank" href="https://www.tripadvisor.com/"><img src="https://www.tripadvisor.com/img/cdsi/img2/badges/ollie-11424-2.gif" alt="TripAdvisor"/></a></li></ul></div><script async src="https://www.jscache.com/wejs?wtype=rated&amp;uniq=469&amp;locationId=16744429&amp;lang=en_US&amp;display_version=2" data-loadtrk onload="this.loadtrk=true"></script>
+
+
         
 
 
